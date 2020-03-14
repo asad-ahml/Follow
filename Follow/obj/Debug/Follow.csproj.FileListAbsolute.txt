@@ -1,0 +1,6 @@
+C:\MarchPractice\Follow\Follow\bin\Debug\Follow.exe.config
+C:\MarchPractice\Follow\Follow\bin\Debug\Follow.exe
+C:\MarchPractice\Follow\Follow\bin\Debug\Follow.pdb
+C:\MarchPractice\Follow\Follow\obj\Debug\Follow.csprojAssemblyReference.cache
+C:\MarchPractice\Follow\Follow\obj\Debug\Follow.exe
+C:\MarchPractice\Follow\Follow\obj\Debug\Follow.pdb
